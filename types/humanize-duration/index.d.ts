@@ -50,6 +50,7 @@ declare namespace humanizeDuration {
         | "sl"
         | "sq"
         | "sr"
+        | "sr_Latn"
         | "sv"
         | "sw"
         | "ta"
